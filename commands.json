@@ -820,4 +820,10 @@
 "e":"admincheat EnableSpectator",
 "t":"Misc",
 "d":"Enables spectator mode (destroys inventory)."
+},{
+"id":"AddEquipmentDurability",
+"c":"AddEquipmentDurabilityr",
+"e":"admincheat AddEquipmentDurability <amount>",
+"t":"Misc",
+"d":"Add specific amount of durability/water/energy to items in hotbar and equipped armor (Repairs armor/items etc)."
 }]}
